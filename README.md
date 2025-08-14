@@ -58,7 +58,7 @@ This project analyzes global temperature trends across 92 cities from 2000-2024 
 
 ```
 
-## Quick Start for TAs/Instructors
+## Quick Start for TAs/Greg
 
 **Ready to run immediately with included sample data:**
 
