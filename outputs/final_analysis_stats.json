@@ -1,0 +1,13 @@
+{
+  "analysis_date": "2025-08-13",
+  "total_cities": 92,
+  "warming_cities": 77,
+  "cooling_cities": 15,
+  "significant_trends": 39,
+  "mean_warming_rate": 0.2944065795649542,
+  "median_warming_rate": 0.29166666666666785,
+  "binomial_test_p": 1.6312004617197486e-11,
+  "latitude_correlation": 0.16595732300738125,
+  "latitude_correlation_p": 0.1138718027425382,
+  "zero_trend_test_p": 6.36524824050925e-16
+}

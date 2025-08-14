@@ -1,0 +1,13 @@
+data/interim/weather-monthly/
+data/interim/cities1000.txt
+data/processed/weather_weekly_clean.parquet
+data/processed/cities_clean_enhanced.parquet
+data/processed/weather_weekly_with_city_dated/
+
+
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+.vscode/
