@@ -82,7 +82,7 @@ jupyter notebook 02_advanced_statistics.ipynb
 - Robust trend estimation (Theil-Sen + OLS)
 - Statistical validation and visualization
 
-PLEASE NOTE!! The notebooks automatically detect and use sample data in DEMO MODE. Sample analysis will show 245 cities vs the full 92-city analysis. All outputs in the outputs/ folder are from the complete full-dataset analysis.
+PLEASE NOTE!! The notebooks automatically detect and use sample data in DEMO MODE. Sample analysis will show 24 cities vs the full 92-city analysis. All outputs in the outputs/ folder are from the complete full-dataset analysis.
 
 DEMO version is not supposed to be reflective of the real output. 
 
