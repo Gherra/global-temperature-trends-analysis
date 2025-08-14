@@ -15,7 +15,7 @@ This project analyzes global temperature trends across 92 cities from 2000-2024 
 - Statistically significant: p < 0.0001 vs random chance
 
 ---
-
+```
 ## Repository Structure
 
 │       
@@ -55,7 +55,7 @@ This project analyzes global temperature trends across 92 cities from 2000-2024 
     └── spark
         └── ghcn_extract.py                                                # Extract data from cluster
 
-
+```
 
 ## Quick Start for TAs/Instructors
 
