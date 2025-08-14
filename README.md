@@ -24,7 +24,8 @@ This project analyzes global temperature trends across 92 cities from 2000-2024 
 │   │  
 │   ├── processed
 │   │   ├── station_to_city_map_calculated_with_the_week_dates_data.parquet
-│   └── samples                                                              # Sample input data
+│   └── samples 
+|       ├── weather_weekly_with_city_dated_sample
 │       ├── cities_sample.txt
 │       ├── station_to_city_map_calculated_with_the_week_dates_data.parquet
 │       └── weather_sation_with_city_sample.parquet
@@ -57,7 +58,7 @@ This project analyzes global temperature trends across 92 cities from 2000-2024 
 
 ```
 
-## Quick Start for TAs/Instructors
+## Quick Start for TAs/Greg
 
 **Ready to run immediately with included sample data:**
 
@@ -81,7 +82,9 @@ jupyter notebook 02_advanced_statistics.ipynb
 - Robust trend estimation (Theil-Sen + OLS)
 - Statistical validation and visualization
 
-Please note the sample data is very small so it won't show a lot of detail.
+PLEASE NOTE!! The notebooks automatically detect and use sample data in DEMO MODE. Sample analysis will show 24 cities vs the full 92-city analysis. All outputs in the outputs/ folder are from the complete full-dataset analysis.
+
+DEMO version is not supposed to be reflective of the real output. 
 
 ---
 
