@@ -181,11 +181,9 @@ Requires access to computing cluster for complete 4.5GB dataset processing.
 
 ---
 
-## Contact & Development
+## Contact
 
 **Author:** Raman Kumar  
-**Project Type:** Advanced Data Science Portfolio Project  
-**Technologies:** Python, PySpark, Statistical Analysis, Climate Data Science
 
 ---
 
